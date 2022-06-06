@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas
+sklearn
+keras
+tensorflow
+tensorflow
+openpyxl
